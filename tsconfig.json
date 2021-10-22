@@ -11,6 +11,12 @@
     "sourceMap": true,
     "declaration": false,
     "downlevelIteration": true,
+    "paths": {
+      "ng-bootstrap-modal": [
+        "dist/ng-bootstrap-modal/ng-bootstrap-modal",
+        "dist/ng-bootstrap-modal"
+      ]
+    },
     "experimentalDecorators": true,
     "moduleResolution": "node",
     "importHelpers": true,
